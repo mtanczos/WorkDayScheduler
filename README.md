@@ -1,7 +1,8 @@
 # Workday Scheduler
 
 > This is a simple calendar application that allows the users to save events for each hour of the day starting from 9am - 5pm. This app will run in the browser and feature dynamically updated HTML and CSS powered by jQuery.
-https://mtanczos.github.io/WorkDayScheduler/
+
+* https://mtanczos.github.io/WorkDayScheduler/
 
 ## Table of contents
 * [Acceptance_Criteria](#Acceptance_Criteria)
